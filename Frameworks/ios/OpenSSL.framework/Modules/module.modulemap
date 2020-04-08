@@ -1,4 +1,4 @@
-framework module OpenSSL {
+framework module openssl {
   umbrella header "OpenSSL.h"
 
   export *
