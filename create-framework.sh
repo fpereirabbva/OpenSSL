@@ -5,7 +5,7 @@ set -e
 
 BASE_PWD="$PWD"
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
-FWNAME="OpenSSL"
+FWNAME="openssl"
 
 # Laverage Carthage to build frameworks
 

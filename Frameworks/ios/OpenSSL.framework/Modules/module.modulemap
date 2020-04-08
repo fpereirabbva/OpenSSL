@@ -1,5 +1,5 @@
 framework module openssl {
-  umbrella header "OpenSSL.h"
+  umbrella header "openssl.h"
 
   export *
   module * { export * }
