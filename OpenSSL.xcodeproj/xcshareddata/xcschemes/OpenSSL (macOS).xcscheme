@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9F4A2715223BE476005CB63A"
                BuildableName = "OpenSSL.framework"
-               BlueprintName = "OpenSSL (macOS)"
-               ReferencedContainer = "container:OpenSSL.xcodeproj">
+               BlueprintName = "openssl (macOS)"
+               ReferencedContainer = "container:openssl.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -47,12 +45,10 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9F4A2715223BE476005CB63A"
             BuildableName = "OpenSSL.framework"
-            BlueprintName = "OpenSSL (macOS)"
-            ReferencedContainer = "container:OpenSSL.xcodeproj">
+            BlueprintName = "openssl (macOS)"
+            ReferencedContainer = "container:openssl.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -65,8 +61,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9F4A2715223BE476005CB63A"
             BuildableName = "OpenSSL.framework"
-            BlueprintName = "OpenSSL (macOS)"
-            ReferencedContainer = "container:OpenSSL.xcodeproj">
+            BlueprintName = "openssl (macOS)"
+            ReferencedContainer = "container:openssl.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
